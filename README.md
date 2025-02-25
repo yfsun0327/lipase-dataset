@@ -1,4 +1,4 @@
-# LIPASE Dataset - coming soon...
+# LIPASE Dataset
 
 ## Overview
 The **LIPASE** (LTE-based dIgital array PAssive SEnsing system) dataset contains experimental data for passive UAV tracking using LTE downlink signals and digital antenna arrays. This dataset was collected as part of the research presented in:
@@ -17,7 +17,7 @@ The dataset contains the following components:
 <!--- **Raw IQ Samples**: Baseband signals collected by software-defined radios (SDRs) from LTE downlink transmissions.-->
 - **Preprocessed Signals**: Interference-suppressed signals.
 <!--- **Range-Doppler Maps**: Intermediate processing results from cross-ambiguity function calculations.-->
-- **Matlab Scripts**: Scripts to process the data and generate range-Doppler maps.
+- **Matlab Scripts**: Scripts to process the data and generate range-Doppler maps. (coming soon...)
 
 ---
 
@@ -30,6 +30,7 @@ The dataset contains the following components:
 
 ---
 
+<!--
 ## File Structure
 ```plaintext
 LIPASE-Dataset/
@@ -39,6 +40,7 @@ LIPASE-Dataset/
 │── matlab_scripts/                 # MATLAB scripts for processing data
 │── README.md                       # This file
 ```
+-->
 
 ## How to Download the Dataset
 Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
