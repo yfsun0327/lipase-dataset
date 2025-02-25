@@ -15,9 +15,9 @@ The dataset is designed to support research in **passive radar, UAV tracking, an
 The dataset contains the following components:
 
 <!--- **Raw IQ Samples**: Baseband signals collected by software-defined radios (SDRs) from LTE downlink transmissions.-->
-- **Preprocessed Signals**: Interference-suppressed signals.
-<!--- **Range-Doppler Maps**: Intermediate processing results from cross-ambiguity function calculations.-->
-- **Matlab Scripts**: Scripts to process the data and generate range-Doppler maps. (coming soon...)
+<!--- - **Preprocessed Signals**: Interference-suppressed signals.-->
+- **Range-Doppler Maps**: Processing results from cross-ambiguity function calculations.
+- **Matlab Scripts**: Scripts to read the range-Doppler maps and plot the GPS data on map.
 
 ---
 
@@ -51,6 +51,7 @@ LIPASE-Dataset/
 │── README.md                       # This file
 ```
 
+<!--
 ## How to Download the Dataset
 Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
 
@@ -69,6 +70,7 @@ Due to its large size, the dataset cannot be directly uploaded to GitHub. Please
    - Open MATLAB and run the provided scripts.
 
 ---
+-->
 
 ## Citation
 If you use this dataset in your research, please cite:
