@@ -92,7 +92,7 @@ This dataset is licensed under the Creative Commons Attribution 4.0 License. You
 ---
 
 ## Contact
-For questions or collaborations, please contact:
+For questions, please contact:
 
 - Yifei Sun: yfsun0327@connect.hku.hk
 
