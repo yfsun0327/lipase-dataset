@@ -10,6 +10,10 @@ The **LIPASE** (LTE-based dIgital array PAssive SEnsing system) dataset contains
 The dataset is designed to support research in **passive radar, UAV tracking, and integrated sensing and communications (ISAC)** by providing raw and processed data from real-world experiments.
 
 ---
+<p align="center">
+    <img src='ExampleGPS.jpg' width="300" >
+    <img src='ExampleRDPlot.jpg' width="300" > <br>
+</p>
 
 ## Data Description
 The dataset contains the following components:
