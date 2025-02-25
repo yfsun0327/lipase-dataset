@@ -89,7 +89,6 @@ This dataset is licensed under the Creative Commons Attribution 4.0 License. You
 For questions or collaborations, please contact:
 
 - Yifei Sun: yfsun0327@connect.hku.hk
-- Rui Wang: wang.r@sustech.edu.cn
 
 For updates, visit the GitHub Repository:
 https://github.com/yfsun0327/dataset-LIPASE
