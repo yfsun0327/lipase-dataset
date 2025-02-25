@@ -59,17 +59,14 @@ Due to its large size, the dataset cannot be directly uploaded to GitHub. Please
 ---
 
 ## How to Use the Dataset
-1. Download the dataset
+1. **Download the dataset**  
+   - Extract the data files after downloading.
 
-  + Extract the data files after downloading.
+2. **Process the raw signals**  
+   - Use the MATLAB scripts 'main.m' to generate range-Doppler maps.
 
-2. Process the raw signals
-
-  + Use the MATLAB scripts in matlab_scripts/ to generate range-Doppler maps.
-
-3. Generate range-Doppler maps
-
-  + Open MATLAB and run the provided scripts.
+3. **Generate range-Doppler maps**  
+   - Open MATLAB and run the provided scripts.
 
 ---
 
