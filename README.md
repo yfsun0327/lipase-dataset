@@ -27,8 +27,8 @@ The dataset contains the following components:
 
 ## Experiment Setup
 - **Transmitter**: Commercial LTE eNB operating at 2130–2135 MHz.
-- **Receiver**: Passive sensing system with two uniform linear antenna arrays (ULAs) and digital beamforming.
-- **Target**: UAV flying a **J-shaped** trajectory while reflecting LTE signals.
+- **Receiver**: Passive sensing system with two uniform linear antenna arrays (ULAs).
+- **Target**: UAV flying a circle trajectory while reflecting LTE signals.
 - **Baseline Distance**: 255 meters between eNB and LIPASE receiver.
 - **Sampling Rate**: 25 MHz.
 
