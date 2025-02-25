@@ -34,6 +34,7 @@ The dataset contains the following components:
 
 ---
 
+<!--
 ## File Structure
 ```plaintext
 LIPASE-Dataset/
@@ -55,7 +56,6 @@ LIPASE-Dataset/
 │── README.md                       # This file
 ```
 
-<!--
 ## How to Download the Dataset
 Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
 
