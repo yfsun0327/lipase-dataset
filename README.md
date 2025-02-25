@@ -30,7 +30,6 @@ The dataset contains the following components:
 
 ---
 
-<!--
 ## File Structure
 ```plaintext
 LIPASE-Dataset/
@@ -40,7 +39,17 @@ LIPASE-Dataset/
 │── matlab_scripts/                 # MATLAB scripts for processing data
 │── README.md                       # This file
 ```
--->
+```plaintext
+LIPASE-Dataset/
+│── main.m                         # Main MATLAB script for processing data
+│── data/
+│   ├── gps/                        # GPS data
+│   ├── raw/                        # Raw IQ samples
+│   ├── preprocessed/               # Preprocessed IQ signals (clutter-suppressed)
+│   ├── rdplot/                     # RD plot
+│── fun/                            # MATLAB functions
+│── README.md                       # This file
+```
 
 ## How to Download the Dataset
 Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
