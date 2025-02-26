@@ -58,10 +58,6 @@ LIPASE-Dataset/
 
 -->
 
-## How to Download the Dataset
-Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
-
-
 
 ---
 
@@ -69,10 +65,11 @@ Due to its large size, the dataset cannot be directly uploaded to GitHub. Please
 
 1. **Clone the repository**  
 
-2. **Download the dataset**  
+2. **Download the dataset**
+   - Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
 🔗[Download LIPASE Dataset](https://lasso525.quickconnect.cn/d/s/12HGCyjHEZhcjowa9ELTeg13N6VfRG51/6C9oAboGjXWV89wfowvX7YDko_x_1GYp-4rxAmCZeEww)
 
-3. **Run your detection and tracking algorithms**  
+4. **Run your detection and tracking algorithms**  
    - Open MATLAB and run the provided scripts.
 
 ---
