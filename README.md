@@ -56,25 +56,26 @@ LIPASE-Dataset/
 │── README.md                       # This file
 ```
 
+-->
+
 ## How to Download the Dataset
 Due to its large size, the dataset cannot be directly uploaded to GitHub. Please download it from the following link:
 
-🔗[Download LIPASE Dataset](https://lasso525.quickconnect.cn/d/s/12HGCyjHEZhcjowa9ELTeg13N6VfRG51/6C9oAboGjXWV89wfowvX7YDko_x_1GYp-4rxAmCZeEww)
+
 
 ---
 
 ## How to Use the Dataset
-1. **Download the dataset**  
-   - Extract the data files after downloading.
 
-2. **Process the raw signals**  
-   - Use the MATLAB scripts 'main.m' to generate range-Doppler maps.
+1. **Clone the repository**  
 
-3. **Generate range-Doppler maps**  
+2. **Download the dataset**  
+🔗[Download LIPASE Dataset](https://lasso525.quickconnect.cn/d/s/12HGCyjHEZhcjowa9ELTeg13N6VfRG51/6C9oAboGjXWV89wfowvX7YDko_x_1GYp-4rxAmCZeEww)
+
+3. **Run your detection and tracking algorithms**  
    - Open MATLAB and run the provided scripts.
 
 ---
--->
 
 ## Citation
 If you use this dataset in your research, please cite:
