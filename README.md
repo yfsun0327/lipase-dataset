@@ -11,7 +11,7 @@ The dataset is designed to support research in **passive radar, UAV tracking, an
 
 ---
 <p align="center">
-    <img src='ExampleGPS.jpg' width="300" >
+    <!--<img src='ExampleGPS.jpg' width="300" >-->
     <img src='ExampleRDPlot.jpg' width="300" > <br>
 </p>
 
