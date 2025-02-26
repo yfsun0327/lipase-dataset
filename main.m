@@ -16,9 +16,9 @@ para = initParaDataset(arr_time,arr_delay_up,arr_range_up,arr_Dop,CIT);
 
 %% Plot a sample RD Plot
 fig_CFAR = figure('Position',[0001,0041,0400,0400],'Name','CFAR Detection');
-for idx_frame = 1
-    for idx_sec = 1
-        temp = abs(squeeze(A_TeRD(idx_frame,idx_sec,:,:))).^2;
+for iFrame = 1
+    for iAntenna = 1
+        temp = abs(squeeze(A_TeRD(iFrame,iAntenna,:,:))).^2;
         temp = mag2db(abs(temp));
         temp = temp-max(temp,[],'all');
 

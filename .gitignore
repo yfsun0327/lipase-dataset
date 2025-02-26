@@ -31,3 +31,9 @@ codegen/
 
 # Cloud based storage dotfile
 .MATLABDriveTag
+
+# Large file can not be uploaded to GitHub
+data/data_preprocessed_210709/data_210709_preprocessed_2123MHz
+data/data_raw_210709/data_210709_raw_2123MHz
+data/data_raw_210709/data_210709_raw_3550MHz
+data/data_RDPlot_210709/data_RDPlot_210709_3_band_2_P_0_L_40_CIT_0.2_time_080_0.1_120.mat
