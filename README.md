@@ -3,9 +3,11 @@
 ## Overview
 The **LIPASE** (LTE-based dIgital array PAssive SEnsing system) dataset contains experimental data for passive UAV tracking using LTE downlink signals and digital antenna arrays. This dataset was collected as part of the research presented in:
 
-> **"An Experimental Study of Passive UAV Tracking with Digital Arrays and Cellular Downlink Signals"**  
-> *Yifei Sun, Chao Yu, Yan Luo, Haisheng Tan, Rui Wang, Francis C. M. Lau*  
-> **[Preprint available on arXiv](https://arxiv.org/abs/2412.20788)**
+> **"An Experimental Study of Passive UAV Tracking With Digital Arrays and Cellular Downlink Signals"**  
+> *Yifei Sun, Chao Yu, Yan Luo, Tony Xiao Han, Haisheng Tan, Rui Wang, Francis C. M. Lau*
+> *IEEE Open Journal of the Communications Society*
+> **[Preprint](https://arxiv.org/abs/2412.20788)**
+> **[Link](https://ieeexplore.ieee.org/abstract/document/10950409/)**
 
 The dataset is designed to support research in **passive radar, UAV tracking, and integrated sensing and communications (ISAC)** by providing raw and processed data from real-world experiments.
 
@@ -77,15 +79,16 @@ LIPASE-Dataset/
 ## Citation
 If you use this dataset in your research, please cite:
 ```bibtex
-@misc{sun2024experimentalstudypassiveuav,
-      title={An Experimental Study of Passive UAV Tracking with Digital Arrays and Cellular Downlink Signals}, 
-      author={Yifei Sun and Chao Yu and Yan Luo and Tony Xiao Han and Haisheng Tan and Rui Wang and Francis C. M. Lau},
-      year={2024},
-      eprint={2412.20788},
-      archivePrefix={arXiv},
-      primaryClass={eess.SP},
-      url={https://arxiv.org/abs/2412.20788}, 
-}
+@ARTICLE{10950409,
+  author={Sun, Yifei and Yu, Chao and Luo, Yan and Xiao Han, Tony and Tan, Haisheng and Wang, Rui and Lau, Francis C. M.},
+  journal={IEEE Open Journal of the Communications Society}, 
+  title={An Experimental Study of Passive UAV Tracking With Digital Arrays and Cellular Downlink Signals}, 
+  year={2025},
+  volume={6},
+  number={},
+  pages={3779-3794},
+  keywords={Sensors;Autonomous aerial vehicles;Target tracking;Antenna arrays;Receivers;Quadrotors;Directional antennas;Trajectory tracking;Surveillance;Radar tracking;Low-altitude economy;bistatic sensing;integrated sensing and communications;LTE;UAV;trajectory tracking},
+  doi={10.1109/OJCOMS.2025.3558430}}
 ```
 
 ---
@@ -101,7 +104,7 @@ For questions, please contact:
 - Yifei Sun: yfsun0327@connect.hku.hk
 
 For updates, visit the GitHub Repository:
-https://github.com/yfsun0327/dataset-LIPASE
+https://github.com/yfsun0327/lipase-dataset
 
 
 
