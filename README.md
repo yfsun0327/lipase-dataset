@@ -4,8 +4,8 @@
 The **LIPASE** (LTE-based dIgital array PAssive SEnsing system) dataset contains experimental data for passive UAV tracking using LTE downlink signals and digital antenna arrays. This dataset was collected as part of the research presented in:
 
 > **"An Experimental Study of Passive UAV Tracking With Digital Arrays and Cellular Downlink Signals"**  
-> *Yifei Sun, Chao Yu, Yan Luo, Tony Xiao Han, Haisheng Tan, Rui Wang, Francis C. M. Lau*
-> *IEEE Open Journal of the Communications Society*
+> **Yifei Sun, Chao Yu, Yan Luo, Tony Xiao Han, Haisheng Tan, Rui Wang, Francis C. M. Lau**
+> **IEEE Open Journal of the Communications Society**
 > **[Preprint](https://arxiv.org/abs/2412.20788)**
 > **[Link](https://ieeexplore.ieee.org/abstract/document/10950409/)**
 
